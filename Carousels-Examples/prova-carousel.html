@@ -1,0 +1,100 @@
+<!-- FILE DI PROVA PER 'INFINITE-LINEAR CAROUSEL' -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prova Infinite-Carousel</title>
+
+    <!-- STILI -->
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background: #7c7d7d;
+      }
+
+      p {
+        color: #ffffff;
+        font-size: 1.5rem;
+        margin: 1.5rem;
+        text-align: center;
+      }
+
+      .logos {
+        overflow: hidden;
+        background: #c6c7c8;
+        padding: 20px 0;
+      }
+
+      .logos-track {
+        display: flex;
+        width: max-content; /* si adatta alla somma degli elementi */
+        animation: scroll 20s linear infinite;
+      }
+
+      .logos-slide {
+        display: flex;
+      }
+
+      .logos-slide img {
+        height: 50px;
+        margin: 0 50px;
+      }
+
+      @keyframes scroll {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(-50%);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="logos">
+      <div class="logos-track">
+        <!-- Prima sequenza -->
+        <div class="logos-slide">
+          <img src="logo-amazon.svg" alt="amazon" />
+          <img src="logo-apple.svg" alt="apple" />
+          <img src="logo-facebook.svg" alt="facebook" />
+          <img src="logo-google.svg" alt="google" />
+          <img src="logo-playstation.svg" alt="playstation" />
+          <img src="logo-steam.svg" alt="steam" />
+          <img src="logo-tiktok.svg" alt="tiktok" />
+          <img src="logo-twitch.svg" alt="twitch" />
+        </div>
+
+        <!-- Copia identica per il loop -->
+        <div class="logos-slide">
+          <img src="logo-amazon.svg" alt="amazon" />
+          <img src="logo-apple.svg" alt="apple" />
+          <img src="logo-facebook.svg" alt="facebook" />
+          <img src="logo-google.svg" alt="google" />
+          <img src="logo-playstation.svg" alt="playstation" />
+          <img src="logo-steam.svg" alt="steam" />
+          <img src="logo-tiktok.svg" alt="tiktok" />
+          <img src="logo-twitch.svg" alt="twitch" />
+        </div>
+      </div>
+    </div>
+
+    <p>
+      Realizzato con
+      <a href="https://www.w3schools.com/html/default.asp"
+        ><strong>HTML</strong></a
+      >
+      e principalmente
+      <a href="https://www.w3schools.com/css/default.asp"
+        ><strong><u>CSS</u></strong></a
+      >
+    </p>
+  </body>
+</html>

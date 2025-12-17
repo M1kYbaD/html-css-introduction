@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <title>Pagina 1 con esempi</title>
+    <style>
+      .a {
+        font-size: 30px;
+      }
+
+      a:link {
+        color: blue;
+      }
+
+      a:visited {
+        color: red;
+      }
+
+      a:hover {
+        color: green;
+      }
+
+      a:active {
+        color: purple;
+      }
+
+      li:first-child {
+        color: red;
+      }
+
+      li:last-child {
+        color: rgb(199, 175, 23);
+      }
+
+      li:nth-child(3) {
+        color: hotpink;
+      }
+
+      .div {
+        width: 500px;
+        height: 500px;
+        background-color: khaki;
+        padding-top: 50px;
+        padding-right: 25px;
+        padding-bottom: 50px;
+        padding-left: 25px;
+        border-top: 5px double green;
+        border-right: 10px dashed violet;
+        border-bottom: 15px dotted blue;
+        border-left: 20px solid red;
+      }
+
+      .div2 {
+        width: 500px;
+        height: 500px;
+        background-color: rgb(203, 186, 31);
+        border: 15px dashed black;
+      }
+
+      .a-div {
+        background-color: salmon;
+        padding: 20px 40px;
+      }
+
+      .btn-filled {
+        text-decoration: none;
+        background-color: cornflowerblue;
+        color: white;
+        padding: 20px 40px;
+        border: 10px solid blue;
+      }
+
+      .btn-outline {
+        text-decoration: none;
+        background-color: white;
+        color: cornflowerblue;
+        padding: 20px 40px;
+        border: 10px solid blue;
+      }
+
+      .div-button {
+        width: 500px;
+        height: 200px;
+        background-color: plum;
+        border-radius: 100px;
+      }
+
+      .div-button-round {
+        width: 200px;
+        height: 200px;
+        background-color: crimson;
+        border-radius: 100px;
+      }
+
+      .box-1 {
+        width: 500px;
+        height: 500px;
+        background-color: olive;
+        margin-top: 20px;
+        margin-right: 15px;
+        margin-bottom: 10px;
+        margin-left: 5px;
+      }
+
+      .box-2 {
+        width: 500px;
+        height: 500px;
+        background-color: saddlebrown;
+        margin: 0 40px;
+      }
+
+      .div-3 {
+        width: 500px;
+        height: 500px;
+        background-color: lightcoral;
+        padding: 50px;
+        border: 5px solid black;
+        margin: 50px;
+      }
+
+      .inline-element {
+        background-color: lightgreen;
+        height: 400px;
+        width: 400px;
+        padding: 100px;
+        border: 10px solid red;
+        margin: 100px;
+        display: inline-block;
+      }
+
+      .replaced-inline-element {
+        width: 400px;
+        height: 50px;
+        padding: 100px;
+        border: 10px solid green;
+        margin: 50px;
+      }
+
+      .container {
+        max-width: 1000px;
+        height: 500px;
+        background-color: lightblue;
+      }
+
+      /* Table styling */
+      table {
+        width: 80%;
+        margin: 0 auto;
+        border-collapse: collapse; /* removes double borders */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background-color: #e6e6e6;
+        border-radius: 6px;
+        overflow: hidden;
+      }
+
+      /* Header */
+      thead {
+        background-color: #35506a;
+        color: white;
+      }
+
+      th,
+      td {
+        padding: 12px 16px;
+        text-align: center;
+      }
+
+      th {
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1 style="text-decoration: underline red wavy">
+      Titolone + "wavy underline"
+    </h1>
+    <h1 style="font-size: 50px">Primo heading (font-size: 50px)</h1>
+    <div class="div-button">
+      <!---->
+    </div>
+    <div class="div-button-round">
+      <!---->
+    </div>
+    <h2 style="color: mediumseagreen">Secondo heading</h2>
+    <h2 style="text-decoration: line-through green dashed">Titolino</h2>
+    <p style="text-decoration: overline blue">Paragrafetto</p>
+    <p style="text-decoration: underline yellowgreen">Paragrafettino</p>
+    <h3 style="background-color: tomato">
+      Terzo heading (con sfondo colorato)
+    </h3>
+    <p>Primo paragrafo</p>
+    <p style="border: 3px solid violet">
+      Secondo paragrafo (con il bordo stilato)
+    </p>
+    <p style="font-style: italic">Paragrafone (font: italic)</p>
+
+    <a href="https://www.youtube.com/" target="_blank">Link for Youtube</a>
+    <img src="youtube-icon.png" alt="youtube" width="50" height="50" />
+    <p>
+      Paragrafo con <br />
+      line break/new line.
+    </p>
+    <p style="color: red">Paragrafo rosso</p>
+    <ul>
+      <li>0</li>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+      <li>4</li>
+    </ul>
+    <p
+      title="I'm a tooltip in a paragraph"
+      style="color: brown; font-size: 35px"
+    >
+      Altro paragrafo (con tooltip a comparsa)
+    </p>
+
+    <hr />
+    <h4>Heading 4</h4>
+    <p>Testo paragrafo</p>
+    <hr />
+    <h5>Heading 5</h5>
+    <p>Altro testo paragrafo</p>
+    <hr />
+
+    <p>The pre tag preserves both spaces and line breaks:</p>
+    <pre>
+      Pallone
+      Orso
+      Carlo
+    </pre>
+    <p style="background-color: powderblue">
+      Paragrafo con background colorato.
+    </p>
+    <p style="background-color: yellowgreen">
+      Paragrafo con background colorato (diverso da sopra).
+    </p>
+    <h6 style="color: blue">Heading 6 (colorato)</h6>
+    <h3 style="color: blueviolet">Heading 3 ("color: blueviolet;")</h3>
+    <h3 style="color: blueviolet; color: orangered">
+      Heading 3 ("color: orangered;" sovrascrive il colore precedente.)
+    </h3>
+    <h2 style="letter-spacing: 6px">Nel mezzo del cammin di nostra vita.</h2>
+    <p style="text-align: right">Sto 'allineato' a destra.</p>
+    <p
+      style="
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      "
+    >
+      Paragrafo (con 'font' diverso dal default)
+    </p>
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif">
+      Paragrafo (con 'font' diverso da sopra)
+    </p>
+    <p style="font-size: 150%">Paragrafo (font size: 150%)</p>
+    <p style="text-align: center">
+      Paragrafo centrato (con text-align: 'center')
+    </p>
+
+    <p><b>Testo bold (minore enfasi, più estetico.)</b></p>
+    <p>
+      <strong>Testo strong (maggiore enfasi, avvertimento importante!)</strong>
+    </p>
+    <p><i>Testo in italic (minore enfasi)</i></p>
+    <p><em>Testo italic (maggiore enfasi, migliore comprensione)</em></p>
+    <p><small>Testo più piccolo</small></p>
+    <p>
+      Testo <mark>marcato</mark> (testo sottolineato o <mark>marcato</mark>)
+    </p>
+    <p>Colore preferito: <del>blue</del> red (removed text)</p>
+    <p>Colore preferito: <del>blue</del> <ins>red</ins> (inserted text)</p>
+
+    <!-- CITAZIONE 'LUNGA' O A BLOCCHI -->
+    <p>Quote from Martin Luther King:</p>
+    <blockquote cite="https://it.wikipedia.org/wiki/Martin_Luther_King">
+      I have a dream that my four little children will one day live in a nation
+      where they will not be judged by the color of their skin, but by the
+      content of their character. I have a dream today!
+    </blockquote>
+
+    <!-- CITAZIONE 'BREVE' O IN LINEA -->
+    <p>
+      Obiettivo dell'ENI:
+      <q>Produrre e garantire energia sostenibile ed equa per tutti.</q>
+    </p>
+
+    <!-- ABBREVIAZIONE O ACRONIMO -->
+    <p>
+      La <abbr title="North Atlantic Treaty Organization">NATO</abbr> è stata istituita nel 1949.
+    </p>
+    <hr />
+
+    <p>
+      (Definisce info di contatto dell'autore/proprietario di un documento o
+      articolo)
+    </p>
+    <address>
+      Scritto da: Marco Travaglio.<br />
+      Visita il sito:<br />
+      https://www.ilfattoquotidiano.it/<br />
+      Via del Corso 15, Roma
+    </address>
+    <p>
+      <cite>Cielo Stellato</cite> di Vincent Van Gogh [definisce (nel font
+      "italic") il titolo di un'opera]
+    </p>
+    <hr />
+
+    <!-- ESEMPIO LINK CON "PSEUDO-CLASSI"-->
+    <a class="a" href="">Clicca Qui &#8592;</a>
+    <hr />
+
+    <div class="div">
+      <a class="a-div" href="">Button 1</a>
+      <a class="a-div" href="">Button 2</a>
+    </div>
+    <hr />
+    <div class="div2"></div>
+    <div>
+      <a class="btn-filled" href="">Filled</a>
+      <a class="btn-outline" href="">Outline</a>
+    </div>
+
+    <!-- QUESTO E' UN COMMENTO 
+     SU PIU' RIGHE -->
+
+    <hr />
+
+    <!-- DIMOSTRAZIONE "div" -->
+    <h1>Heading div</h1>
+    <p>Explaining "div" tag</p>
+
+    <div>
+      <a>Link 1</a>
+      <a>Link 2</a>
+    </div>
+    <div>
+      <a>Link 3</a>
+      <a>Link 4</a>
+    </div>
+
+    <h1>
+      Crea il tuo
+      <div>gioco</div>
+      oggi!
+    </h1>
+    <hr />
+
+    <!-- DIMOSTRAZIONE tag 'table' -->
+    <h1>Esempio Tabella UFC</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Event</th>
+          <th>Fight</th>
+          <th>Venue</th>
+          <th>City</th>
+          <th>PPV</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>UFC 189</td>
+          <td>Mendes vs. McGregor</td>
+          <td rowspan="3">MGM Grand</td>
+          <td rowspan="4">Las Vegas</td>
+          <td>825.000</td>
+        </tr>
+        <tr>
+          <td>UFC 194</td>
+          <td>Aldo vs. McGregor</td>
+          <td>1.200.000</td>
+        </tr>
+        <tr>
+          <td>UFC 196</td>
+          <td>McGregor vs. Diaz</td>
+          <td>1.317.000</td>
+        </tr>
+        <tr>
+          <td>UFC 202</td>
+          <td>Diaz vs. McGregor</td>
+          <td>T-Mobile</td>
+          <td>1.650.000</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="4">Total Sales:</td>
+          <td>4.992.000</td>
+        </tr>
+      </tfoot>
+    </table>
+    <hr />
+
+    <div class="box-1"></div>
+    <div class="box-2"></div>
+    <hr />
+    <div class="div-3"></div>
+    <hr />
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni qui, fuga
+      voluptate eaque suscipit at accusamus fugiat aliquam sunt, sapiente
+      aliquid dolore tempore repellendus consectetur ipsam expedita dignissimos.
+      Quidem, perspiciatis! <span class="inline-element">Similique</span>,
+      minus, quos nisi unde fugiat temporibus perspiciatis ducimus dolorem
+      dolore consequuntur praesentium quia quibusdam nulla autem provident
+      animi. Earum at laudantium officia cumque ducimus, perferendis illum
+      dignissimos nemo pariatur.
+    </p>
+    <input class="replaced-inline-element" type="text" />
+    <hr />
+    <h1>Heading 1</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+    <ul>
+      <li>Li 1</li>
+      <li>Li 2</li>
+      <li>Li 3</li>
+    </ul>
+    <hr />
+    <div class="container"></div>
+  </body>
+</html>
