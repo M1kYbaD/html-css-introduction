@@ -2,7 +2,7 @@
 
 This repository contains basic exercises to learn `HTML` and `CSS` fundamentals.
 
-## Topics
+## Topics 📚
 
 - HTML structure
 - CSS selectors
