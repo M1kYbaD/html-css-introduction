@@ -10,4 +10,4 @@ This repository contains basic exercises to learn **HTML** and **CSS** fundament
 
 ## Additional Resources
 
-For more information about **HTML** and **CSS**, visit the [W3 Schools Tutorials](https://www.w3schools.com/)
+For more information about **HTML** and **CSS**, visit the [W3 Schools Tutorials](https://www.w3schools.com/) page.
