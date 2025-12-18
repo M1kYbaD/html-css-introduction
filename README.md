@@ -1,4 +1,6 @@
-# HTML & CSS Introduction
+<h1 align="center">HTML & CSS Introduction</h1>
+
+---
 
 This repository provides a collection of simple exercises designed to help you understand the fundamentals of **HTML** and **CSS**.
 
