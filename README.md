@@ -4,9 +4,9 @@ This repository provides a collection of simple exercises designed to help you u
 
 ## What You’ll Learn
 
-- Basic **HTML** page structure
-- Common **CSS** selectors
-- Fundamental layout concepts
+- `Basic **HTML** page structure`
+- `Common **CSS** selectors`
+- `Fundamental layout concepts`
 
 ## Additional Resources
 
