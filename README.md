@@ -10,7 +10,7 @@ This repository provides a collection of simple exercises designed to help you u
 
 ## List
 
-- `Carousels-Examples`: Examples of image and content **carousels** built with HTML and CSS.
+- `Carousels-Examples`: Examples of image and content **carousels** built with **HTML** and **CSS**.
 - `Simple-Exercises`: A set of small exercises to practice **HTML and CSS basics**.
 
 ## Additional Resources
