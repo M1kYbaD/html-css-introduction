@@ -21,12 +21,12 @@
 
 - Apply **CSS** to `style text`, `layouts`, `colors`, and `spacing`
 - Learn common **CSS selectors** and how to target elements
-- Use layout techniques like `flexbox` and positioning to structure content
+- Use layout techniques like `flexbox` and `positioning` to structure content
 
 ### Image & Content Carousel Design
 
 - Explore how image carousels are structured with HTML and styled with CSS
-- Learn how to implement carousel slides and navigation controls
+- Learn how to implement carousel `slides` and `navigation controls`
 - Practice combining transitions and layout skills to create interactive UI components
 
 ## List
