@@ -13,7 +13,7 @@
 
 ### HTML Fundamentals
 
-- Understand the basic structure of an **HTML** document with `tags`
+- Understand the basic structure of an **HTML document** with `tags`
 - Use essential **HTML elements** like `headings`, `paragraphs`, `images`, `links`, `lists`, and `sections`
 - Build semantic and accessible markup
 
@@ -25,7 +25,7 @@
 
 ### Image & Content Carousel Design
 
-- Explore how image **carousels** are structured with HTML and styled with CSS
+- Explore how image **carousels** are structured with **HTML** and styled with **CSS**
 - Learn how to implement carousel `slides` and `navigation controls`
 - Practice combining `transitions` and layout skills to create interactive `UI components`
 
