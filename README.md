@@ -3,6 +3,7 @@
 <p align="center">
   <img src="public/html-5-logo.svg" alt="HTML logo" width="130px" height="130px"/>
   <img src="public/css-3-logo.svg" alt="CSS logo" width="130px" height="130px"/>
+  <br>
   <em>This repository provides a collection of simple exercises designed to help you understand <br>
   the fundamentals of HTML and CSS.</em>
 </p>
