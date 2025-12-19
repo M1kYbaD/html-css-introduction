@@ -1,7 +1,8 @@
 <h1 align="center">HTML & CSS Introduction</h1>
 
 <p align="center">
-<em>This repository provides a collection of simple exercises designed to help you understand the fundamentals of HTML and CSS.</em>
+<em>This repository provides a collection of simple exercises designed to help you understand <br>
+the fundamentals of HTML and CSS.</em>
 </p>
 
 ---
