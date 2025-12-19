@@ -13,15 +13,15 @@
 
 ### HTML Fundamentals
 
-- Understand the basic structure of an HTML document with tags
-- Use essential HTML elements like headings, paragraphs, images, links, lists, and sections
+- Understand the basic structure of an **HTML** document with `tags`
+- Use essential **HTML elements** like `headings`, `paragraphs`, `images`, `links`, `lists`, and `sections`
 - Build semantic and accessible markup
 
 ### CSS Basics
 
-- Apply CSS to style text, layouts, colors, and spacing
-- Learn common CSS selectors and how to target elements
-- Use layout techniques like flexbox and positioning to structure content
+- Apply **CSS** to `style text`, `layouts`, `colors`, and `spacing`
+- Learn common **CSS selectors** and how to target elements
+- Use layout techniques like `flexbox` and positioning to structure content
 
 ### Image & Content Carousel Design
 
