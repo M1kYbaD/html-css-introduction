@@ -15,7 +15,7 @@ the fundamentals of HTML and CSS.</em>
 
 ## List
 
-- `Carousels-Examples`: Examples of image and content **carousels** built with **HTML** and **CSS**.
+- `Carousels-Examples`: Examples of image and content **carousels**.
 - `Simple-Exercises`: A set of small exercises to practice **HTML and CSS basics**.
 
 ## Additional Resources
