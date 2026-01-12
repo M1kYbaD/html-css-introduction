@@ -1,8 +1,8 @@
 <h1 align="center">HTML & CSS Introduction</h1>
 
 <p align="center">
-  <img src="public/html-5-logo.svg" alt="HTML logo" width="130px" height="130px"/>
-  <img src="public/css-3-logo.svg" alt="CSS logo" width="130px" height="130px"/>
+  <img src="public/html-5-logo.svg" alt="HTML logo" width="120px" height="120px"/>
+  <img src="public/css-3-logo.svg" alt="CSS logo" width="120px" height="120px"/>
   <br>
   <em>This repository provides a collection of simple exercises designed to help you understand the fundamentals of HTML and CSS.</em>
 </p>
