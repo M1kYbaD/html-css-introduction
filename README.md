@@ -26,8 +26,8 @@
 ### Image & Content Carousel Design
 
 - Explore how image **carousels** are structured with **HTML** and styled with **CSS**.
-- Learn how to implement carousel `slides` and `navigation controls`.
-- Practice combining `transitions` and layout skills to create interactive `UI components`.
+- Learn how to implement `carousel slides` and `navigation controls`.
+- Practice combining `transitions` and **layout skills** to create `interactive UI components`.
 
 ## List
 
