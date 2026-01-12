@@ -29,7 +29,7 @@
 - Learn how to implement `carousel slides` and `navigation controls`.
 - Practice combining `transitions` and **layout skills** to create `interactive UI components`.
 
-## List
+## Content
 
 - `Carousels-Examples`: Examples of **image** and **content carousels**.
 - `Simple-Exercises`: A set of small exercises to practice **HTML and CSS basics**.
