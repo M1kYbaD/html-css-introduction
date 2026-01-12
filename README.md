@@ -31,7 +31,7 @@
 
 ## List
 
-- `Carousels-Examples`: Examples of image and content **carousels**.
+- `Carousels-Examples`: Examples of **image** and **content carousels**.
 - `Simple-Exercises`: A set of small exercises to practice **HTML and CSS basics**.
 
 ## Additional Resources
