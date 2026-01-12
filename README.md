@@ -36,4 +36,4 @@
 
 ## Additional Resources
 
-To explore **HTML** and **CSS** in more depth, check out the tutorials on [W3Schools](https://www.w3schools.com/).
+To explore **HTML** and **CSS** in more depth, check out the tutorials on **[W3Schools]**(https://www.w3schools.com/).
