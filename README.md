@@ -41,6 +41,5 @@ To explore **HTML** and **CSS** in more depth, check out the tutorials on [**W3S
 ---
 
 🌍 Read this in:
-
 - [English](README.md)
 - [Italiano](README.it.md)
