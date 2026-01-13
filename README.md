@@ -15,7 +15,7 @@
 
 - Understand the basic structure of an **HTML document** with `tags`.
 - Use essential **HTML elements** like `headings`, `paragraphs`, `images`, `links`, `lists`, and `sections`.
-- Build semantic and accessible markup.
+- Build **semantic** and **accessible markup**.
 
 ### CSS Basics
 
