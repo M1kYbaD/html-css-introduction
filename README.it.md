@@ -34,7 +34,7 @@
 ## Contenuto
 
 - `Carousels-Examples`: esempi di **carousel di immagini** e **contenuti**.
-- `Simple-Exercises`: una serie di piccoli esercizi per fare pratica con le **basi di HTML e CSS**.
+- `Simple-Exercises`: una piccola serie di esercizi per fare pratica con le **basi di HTML e CSS**.
 
 ## Risorse Aggiuntive
 
