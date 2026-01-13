@@ -40,6 +40,8 @@
 
 Per approfondire **HTML** e **CSS**, puoi consultare i tutorial disponibili sul sito di [**W3Schools**](https://www.w3schools.com/).
 
+---
+
 🌍 Leggilo in:
 
 - [English](README.md)
