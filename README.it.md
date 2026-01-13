@@ -31,7 +31,7 @@
 - Imparare a implementare `slide` e `controlli di navigazione`.
 - Fare pratica combinando **transizioni** e tecniche di layout per creare **componenti UI interattivi**.
 
-## Contenuto del Repository
+## Contenuto
 
 - `Carousels-Examples`: esempi di **carousel di immagini** e **contenuti**.
 - `Simple-Exercises`: una serie di piccoli esercizi per fare pratica con le **basi di HTML e CSS**.
