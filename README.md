@@ -38,6 +38,8 @@
 
 To explore **HTML** and **CSS** in more depth, check out the tutorials on [**W3Schools**](https://www.w3schools.com/) website.
 
+---
+
 🌍 Read this in:
 
 - [English](README.md)
