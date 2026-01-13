@@ -19,7 +19,7 @@
 
 ### CSS Basics
 
-- Apply **CSS** to `style text`, `layouts`, `colors`, and `spacing`.
+- Apply **CSS** to style `text`, `layouts`, `colors`, and `spacing`.
 - Learn common **CSS selectors** and how to **target elements**.
 - Use **layout techniques** like `flexbox` and `positioning` to structure content.
 
