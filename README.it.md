@@ -28,17 +28,17 @@
 ### Design di Carousel di Immagini e Contenuti
 
 - Esplorare come i **carousel** sono strutturati in **HTML** e stilizzati con **CSS**.
-- Imparare a implementare `slide` e `controlli di navigazione`.
+- Imparare a **implementare** `slide` e `controlli di navigazione`.
 - Fare pratica combinando **transizioni** e tecniche di layout per creare **componenti UI interattivi**.
 
 ## Contenuto
 
-- `Carousels-Examples`: esempi di **carousel di immagini** e **contenuti**.
+- `Carousels-Examples`: esempi di **carousel** con **immagini** e **contenuti**.
 - `Simple-Exercises`: una piccola serie di esercizi per fare pratica con le **basi di HTML e CSS**.
 
 ## Risorse Aggiuntive
 
-Per approfondire **HTML** e **CSS**, puoi consultare i tutorial disponibili sul sito di [**W3Schools**](https://www.w3schools.com/).
+Per approfondire **HTML** e **CSS**, puoi consultare i tutorial sul sito di [**W3Schools**](https://www.w3schools.com/).
 
 ---
 
