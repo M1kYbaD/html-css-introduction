@@ -5,7 +5,7 @@
   <img src="public/css-3-logo.svg" alt="Logo CSS" width="120px" height="120px"/>
   <br>
   <em>
-    Questo repository offre una raccolta di esercizi semplici pensati per aiutarti a comprendere le basi di HTML e CSS.
+    Questa repository offre una raccolta di esercizi semplici pensati per aiutarti a comprendere le basi di HTML e CSS.
   </em>
 </p>
 
