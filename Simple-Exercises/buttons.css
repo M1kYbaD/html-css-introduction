@@ -31,14 +31,14 @@ body {
 }
 
 .subscribe-button:active {
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 .join-button {
   background-color: #ffffff;
   border-color: #3232d7;
   border-style: solid;
-  border-width: 1.5px;
+  border-width: 2px;
   color: #3232d7;
   border-radius: 3px;
   padding-top: 10px;
@@ -55,7 +55,7 @@ body {
 }
 
 .join-button:active {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 .tweet-button {
