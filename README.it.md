@@ -38,7 +38,7 @@
 
 ## Risorse Aggiuntive
 
-Per approfondire **HTML** e **CSS**, puoi consultare i tutorial sul sito di [**W3Schools**](https://www.w3schools.com/).
+Per approfondire **HTML** e **CSS**, puoi consultare i tutorial sul sito di [**W3Schools**](https://www.w3schools.com/) o [**GeeksforGeeks**](https://www.geeksforgeeks.org/web-tech/web-technology/).
 
 ---
 
